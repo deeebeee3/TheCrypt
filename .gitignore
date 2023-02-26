@@ -75,3 +75,5 @@ DerivedDataCache/*
 
 # Exclude the dungeon medieval assets folder
 Content/MedievalDungeon
+
+.DS_Store
