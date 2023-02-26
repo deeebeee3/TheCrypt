@@ -1,0 +1,106 @@
+[
+	{
+		"file": "/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/Source/CryptRaider/CryptRaider.Build.cs",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/.vscode/compileCommands_Default/CryptRaider.247.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/Source/CryptRaider/CryptRaider.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/.vscode/compileCommands_Default/CryptRaider.247.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/Source/CryptRaider/CryptRaider.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/.vscode/compileCommands_Default/CryptRaider.247.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/Source/CryptRaider/CryptRaiderCharacter.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/.vscode/compileCommands_Default/CryptRaider.247.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/Source/CryptRaider/CryptRaiderCharacter.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/.vscode/compileCommands_Default/CryptRaider.247.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/Source/CryptRaider/CryptRaiderGameMode.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/.vscode/compileCommands_Default/CryptRaider.247.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/Source/CryptRaider/CryptRaiderGameMode.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/.vscode/compileCommands_Default/CryptRaider.247.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/Source/CryptRaider/CryptRaiderProjectile.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/.vscode/compileCommands_Default/CryptRaider.247.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/Source/CryptRaider/CryptRaiderProjectile.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/.vscode/compileCommands_Default/CryptRaider.247.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/Source/CryptRaider/TP_PickUpComponent.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/.vscode/compileCommands_Default/CryptRaider.247.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/Source/CryptRaider/TP_PickUpComponent.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/.vscode/compileCommands_Default/CryptRaider.247.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/Source/CryptRaider/TP_WeaponComponent.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/.vscode/compileCommands_Default/CryptRaider.247.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/Source/CryptRaider/TP_WeaponComponent.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/deepakbhari/Documents/Unreal Projects/CryptRaider/.vscode/compileCommands_Default/CryptRaider.247.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	}
+]
